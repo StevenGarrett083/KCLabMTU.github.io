@@ -25,7 +25,6 @@ figcaption {
 .nopadding-left {
   padding-left: 0 !important;
   margin-left: 0 !important;
-  background-image: url('images\background\proteinsreve.jpg');
 }
 
 .nopadding-right {
@@ -50,4 +49,9 @@ figcaption {
   border-radius: 3px 3px 3px 3px;
   margin-bottom: 20px;
   margin-top: 20px;
+}
+
+/* Background Image */
+.background-img {
+  background-image: url('../images/background/proteinsreve.jpg');
 }
