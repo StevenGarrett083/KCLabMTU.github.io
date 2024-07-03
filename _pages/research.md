@@ -15,7 +15,9 @@ permalink: /research/
     <li>
     Development of deep-learning based approaches for prediction of various protein post-translational modification sites
     </li>
+    <li>
     Development of deep-learing based algorithms for prediction of DNA modification and RNA modification sites
+    </li>
     <li>
     Development of bioinformatics workflows for analysis of Next-generation Sequencing data
     </li>

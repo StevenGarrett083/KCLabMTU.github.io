@@ -1,10 +1,7 @@
 ---
 layout: default
 ---
-<!DOCTYPE html>
-<html>
-<body style="background-image:url('../images/background/proteinsreve.jpg')"">
-	<div id="homeid" class="col-sm-8 ml-0 nopadding-left">
+<div id="homeid" class="col-sm-8 ml-0 nopadding-left" style="background:url('../images/background/proteinsreve.jpg')">
 		<!--
 			<div id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
 				 Menu 
@@ -31,11 +28,10 @@ layout: default
 				</a>
 			</div>
 		-->
-			{{ content }}
-		</div>
+	{{ content }}
+</div>
 		
-		<div id="newsid" class="col-sm-4 nopadding-right" >
+<div id="newsid" class="col-sm-4 nopadding-right" >
 			{% include latest-notices-sidebar.html %}
-		</div>
-</body>
-</html>
+</div>
+
