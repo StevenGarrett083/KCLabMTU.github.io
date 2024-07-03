@@ -9,7 +9,9 @@ permalink: /openings/
 
 
 <br><br>
-KCLab does not have any openings at the moment, but if you are interested in our work, we encourage you to keep in touch with us for connections or future collaborations!
+Thank you for your interest in our work!
 
-Contact: dbkc@mtu.edu
+KCLab does not have any openings at the moment, but we encourage you to keep in touch with us for connections or future collaborations!
+
+Contact: dkcvcs@rit.edu
 <br><br>
