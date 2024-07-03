@@ -47,7 +47,7 @@ figcaption {
   margin-right: auto;
   margin-left: auto;
   max-width: 900px; /* or 950px */
-  background-image: url('../images/background/proteinsreve.jpg')
+  background-image: url('{{ site.url }}{{ site.baseurl }}/images/background/pawel_pratyush.jpg')
 }
 
 /* Carousel */
