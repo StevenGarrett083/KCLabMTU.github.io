@@ -6,8 +6,6 @@ sitemap: false
 permalink: /
 ---
 
-![image]({{ site.url }}{{ site.baseurl }}/images/logo/lab-logo-long.png)
-
 <h2 style="text-align: center;">KC Lab<br>Rochester Institute of Technology</h2>
 
 
