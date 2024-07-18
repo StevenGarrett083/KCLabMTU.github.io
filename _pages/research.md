@@ -11,20 +11,13 @@ permalink: /research/
 <br>
 <p>Current Projects:</p>
 
-<ol>
-    <li>
-    Development of deep-learning based approaches for prediction of various protein post-translational modification sites
-    </li>
-    <li>
-    Development of deep-learing based algorithms for prediction of DNA modification and RNA modification sites
-    </li>
-    <li>
-    Development of bioinformatics workflows for analysis of Next-generation Sequencing data
-    </li>
-    <li>
-    Development of ML/DL models for various health informatics problems
-    </li>
-</ol>
+- Development of deep-learning based approaches for prediction of various protein post-translational modification sites
+![image](images\research_ex\pLMSNOSite.png)
+- Development of deep-learing based algorithms for prediction of DNA modification and RNA modification sites
+
+- Development of bioinformatics workflows for analysis of Next-generation Sequencing data
+
+- Development of ML/DL models for various health informatics problems
 
 <br>
 
